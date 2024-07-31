@@ -7,14 +7,18 @@
   </a>
 </p>
 
+<h1 align="center">
 # Languages
+</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,cpp" />
   </a>
 </p>
-
+<h1 align="center">
 # Operating Systems & Kernels
+</h1>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,debian,windows,apple" />
