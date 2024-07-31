@@ -21,7 +21,7 @@ Operating Systems & Kernels
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,arch,windows,apple" />
   </a>
 </p>
 
