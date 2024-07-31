@@ -1,5 +1,5 @@
 <h1 align="center">
-# Socials
+Socials
 </h1>
 <p align="center">
   <a href="discordapp.com/users/1224060882900746443">
@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-# Languages
+Languages
 </h1>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@
   </a>
 </p>
 <h1 align="center">
-# Operating Systems & Kernels
+Operating Systems & Kernels
 </h1>
 
 <p align="center">
