@@ -1,4 +1,6 @@
+<h1 align="center">
 # Socials
+</h1>
 <p align="center">
   <a href="discordapp.com/users/1224060882900746443">
     <img src="https://skillicons.dev/icons?i=discord" />
