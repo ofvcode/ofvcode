@@ -12,7 +12,7 @@ Languages
 </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,bash" />
+    <img src="https://skillicons.dev/icons?i=py" />
   </a>
 </p>
 <h1 align="center">
@@ -21,7 +21,7 @@ Operating Systems & Kernels
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,arch,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple" />
   </a>
 </p>
 
