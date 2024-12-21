@@ -1,6 +1,8 @@
-<h1 align="center">
+<h1 align="center">Hello, I am ofv.. </h1>
+
+<h2 align="center">
 Socials
-</h1>
+</h2>
 <p align="center">
   <a href="discordapp.com/users/1224060882900746443">
     <img src="https://skillicons.dev/icons?i=discord" />
