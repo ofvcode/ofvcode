@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am ofv.. </h1>
+<h1 align="center">I am ofv, a software developer based in the USA.</h1>
 
 <h2 align="center">
 Socials
