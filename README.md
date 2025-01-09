@@ -3,7 +3,7 @@
 Socials
 </h2>
 <p align="center">
-  <a href="discordapp.com/users/1224060882900746443">
+  <a href="discordapp.com/users/1224060882900746443](https://discordlookup.com/user/1224060882900746443">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
