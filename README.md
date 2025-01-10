@@ -31,21 +31,14 @@ Operating Systems & Kernels
 </p>
 <style>
 img{
-
   transition: 0.3s ease;
 }
 
 img:hover {
   transition:0.3s;
   transform:scale(1.1);
-
-
 }
 
-
-
-
-  
 </style>
 <!--
 **ofvcode/ofvcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
