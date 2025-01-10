@@ -15,7 +15,7 @@ Languages
 </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash" />
 
   </a>
 </p>
