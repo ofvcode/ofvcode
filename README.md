@@ -1,15 +1,4 @@
 
-<style>
-img{
-  transition: 0.3s ease;
-}
-
-img:hover {
-  transition:0.3s;
-  transform:scale(1.1);
-}
-
-</style>
 
 
 <h2 align="center">
@@ -17,7 +6,7 @@ Socials
 </h2>
 <p align="center">
   <a href="https://www.discordlookup.com/user/1224060882900746443">
-    <img style="transition:0.3s; transform:scale(1.1);" src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
