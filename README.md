@@ -1,9 +1,9 @@
 
 
 
-<h2 align="center">
+<h1 align="center">
 Socials
-</h2>
+</h1>
 <p align="center">
   <a href="https://www.discordlookup.com/user/1224060882900746443">
     <img src="https://skillicons.dev/icons?i=discord" />
