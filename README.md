@@ -17,7 +17,7 @@ Socials
 </h2>
 <p align="center">
   <a href="https://www.discordlookup.com/user/1224060882900746443">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img style="transition:0.3s; transform:scale(1.1);" src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
