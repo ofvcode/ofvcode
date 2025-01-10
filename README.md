@@ -1,4 +1,17 @@
 
+<style>
+img{
+  transition: 0.3s ease;
+}
+
+img:hover {
+  transition:0.3s;
+  transform:scale(1.1);
+}
+
+</style>
+
+
 <h2 align="center">
 Socials
 </h2>
@@ -29,17 +42,7 @@ Operating Systems & Kernels
     <img src="https://skillicons.dev/icons?i=linux,windows,apple" />
   </a>
 </p>
-<style>
-img{
-  transition: 0.3s ease;
-}
 
-img:hover {
-  transition:0.3s;
-  transform:scale(1.1);
-}
-
-</style>
 <!--
 **ofvcode/ofvcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
